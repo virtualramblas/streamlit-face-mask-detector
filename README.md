@@ -10,5 +10,7 @@ Once an image has been uploaded, the classification happens automatically. It is
 After cloning this repository and have downloaded the face detector algorithm, you need to create a virtual environment and install the application dependencies  
 ```pip install -r requirements.txt```  
 Then you can execute the application through the *streamlit* command  
-```streamlit run streamlit_face_mask_detector.py```
+```streamlit run streamlit_face_mask_detector.py```  
+Here's a demo video:  
+[![Face Detector demo](https://github.com/virtualramblas/streamlit-face-mask-detector/tree/master/videos/streamlit-st_face_mask_detector_expl-2020-05-17-23-05-29.webm.mp4)](https://github.com/virtualramblas/streamlit-face-mask-detector/tree/master/videos/streamlit-st_face_mask_detector_expl-2020-05-17-23-05-29.webm.mp4)
 
