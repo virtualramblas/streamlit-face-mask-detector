@@ -4,3 +4,4 @@ numpy == 1.16.5
 opencv_python == 4.2.0.34
 streamlit == 0.59.0
 tensorflow == 2.0.1
+tf-explain == 0.2.1
